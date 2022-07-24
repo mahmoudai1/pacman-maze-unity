@@ -1,5 +1,5 @@
 # Pac-man Maze
-2D Pac-man Maze Game developed by Unity controlled by the hand using the camera.
+2D Pac-man Maze Game developed by Unity controlled by the **hand** ✊ using the camera.
 
 ## Demo
 
